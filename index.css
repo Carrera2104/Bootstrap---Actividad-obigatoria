@@ -1,0 +1,31 @@
+.card-group{
+    margin: 0.3rem;
+}
+
+.card img{
+    height: 15rem;
+}
+
+.card{
+    margin: 0 0.3rem;
+}
+
+.formulario_final{
+    margin: 1rem;
+}
+
+.col-md-4{
+    width: 100%;
+}
+
+.col-md-6{
+    width: 100%;
+}
+
+.col-12{
+    margin: 1rem 0;
+}
+
+#comentario{
+    color: grey;
+}
